@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+body{
+    background-color:white;
+    margin:0;
+    font-family: 'Muli', sans-serif;
+}
+.container {
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header {
+    background-color:white;
+    color:#934444;
+    height:90px;
+    border-bottom: 10px solid #e09292
+}
+.nav{
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo{
+    float: left;
+    margin-top: 35px;
+    font-size: 1.4rem;
+}
+.links{
+    float:right;
+    margin-top: 40px;
+    font-size: 0.95rem;
+    color:#934444;
+}
+.links a{
+    color:#934444;
+    text-decoration: none;
+    padding-left:10px;
+    padding-right:10px;
+}
+.banner img{
+    max-width:920px;
+    width:100%;
+}
+.banner {
+    background-color: white;
+    padding: 50px 0;
+    text-align: center;
+}
+.banner2 img{
+    max-width:780px;
+    width:40%;
+}
+.banner2 {
+    background-color: white;
+    padding: 20px 0;
+    text-align: center;
+
+}
+.banner3 img{
+    max-width:780px;
+    width:81%;
+}
+.banner3 {
+    background-color: white;
+    padding: 20px 0;
+    text-align: center;
+
+}
+.banner4 img{
+    max-width:780px;
+    width:81%;
+}
+.banner4 {
+    background-color: white;
+    padding: 20px 0;
+    text-align: center;
+
+}
+.banner5 img{
+    max-width:780px;
+    width:81%;
+}
+.banner5 {
+    background-color: white;
+    padding: 20px 0;
+    text-align: center;
+
+}
+.aboutbanner img{
+    max-width:px;
+    width:100%;
+}
+.aboutbanner {
+    background-color: white;
+    padding: 20px 0;
+    text-align: center;
+
+}
+.contactpage{
+    width: 910px;
+    height: 0px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    color: #934444;
+    float: left;
+    margin-top: 10px;
+    padding: 10px;
+}
+.contactpageimg1 img{
+    max-width:920px;
+    width:100%;
+    margin-top:400px;
+}
+.contactpageimg1 {
+    background-color: white;
+    padding: 20px 0;
+    text-align:left;
+}
+.title{
+    width: 910px;
+    height: 0px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    color: #934444;
+    float: left;
+    margin-top: 20px;
+    text-align: center
+}
+.campaign{
+    width:910px;
+    height:0px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    color: #934444;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    
+}
+.illustratorimages img{
+    max-width:700px;
+    width:100%;
+    float:right;
+    margin-bottom:
+}
+.illustratorimages {
+    background-color: white;
+    padding: px 0;
+    text-align:left;
+}
+.map img{
+    max-width:420px;
+    width:100%;
+    float:left;
+}
+.map {
+    background-color: white;
+    padding: 20px 0;
+}
+.harbour img{
+    max-width:420px;
+    width:100%;
+    float:right;
+    height: 253px;
+    margin-bottom: 100px;
+}
+.harbour {
+    background-color: white;
+    padding: 20px 0;
+}
